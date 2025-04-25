@@ -1,10 +1,10 @@
-name = "Quick Pick"
+name = "sul"
 description = "It makes almost everything pick quickly."
 author = "辣椒小皇纸"
 version = "1.4.0"
 forumthread = ""
 
-api_version = 10
+api_version = 11
 
 all_clients_require_mod = false
 client_only_mod = false
